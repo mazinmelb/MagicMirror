@@ -22,15 +22,23 @@ var config = {
 			module: "compliments",
 			position: "middle_center",
 			config: {
-				compliments: {
+				compliments: 
+				{
 					morning: [
-						"Hi", "Good Morning", "Morning test"
+						"Hi Gorgeous",
+						"Good morning Spunky”,
+						"How was your sleep?",
+						“Did you just get your hair done?”
 					],
 					afternoon: [
-						"Hello", "Good Afternoon", "Afternoon test"
+						“I love those shoes“,
+						“That top really suits you“,
+						“You look like an afternoon delight”
 					],
 					evening: [
-						"Hello There", "Good Evening", "Evening test"
+						“You look better when you’re wearing less”,
+						“Oh Babe, you look amazing“,
+						“Night sexy!"
 					]
 				}
 			}
