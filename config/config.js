@@ -58,9 +58,9 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "New York",
-				locationID: "",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				location: "Melbourne",
+				locationID: "2158177",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
+				appid: "59537df4cc0d132efa0a6f9ca2488e98"
 			}
 		},
 		{
@@ -68,9 +68,9 @@ var config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
-				location: "New York",
-				locationID: "5128581",  //ID from https://openweathermap.org/city
-				appid: "YOUR_OPENWEATHER_API_KEY"
+				location: "Melbourne",
+				locationID: "2158177",  //ID from https://openweathermap.org/city
+				appid: "59537df4cc0d132efa0a6f9ca2488e98"
 			}
 		},
 		{
