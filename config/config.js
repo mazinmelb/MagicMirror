@@ -36,6 +36,9 @@ var config = {
 		{
 			module: "clock",
 			position: "top_left"
+		config: {
+			timezone: "Australia/Melbourne"
+		}
 		},
 		{
 			module: "calendar",
