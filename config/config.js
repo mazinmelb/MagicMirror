@@ -36,9 +36,8 @@ var config = {
 		{
 			module: "clock",
 			position: "top_left"
-			
 			config: {
-			// The config property is optional.
+			// setting timezone to melbourne
 				timezone: "Australia/Melbourne"
 			}
 			
